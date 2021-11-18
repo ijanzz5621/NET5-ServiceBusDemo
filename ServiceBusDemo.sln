@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{1EE18EAD-23BD-4B01-BDC8-564D28F31E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{38268164-AC74-47D6-8DDF-36A6A0FEE824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{7EDC49AA-0C71-4A45-ADAB-1312896292FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE18EAD-23BD-4B01-BDC8-564D28F31E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE18EAD-23BD-4B01-BDC8-564D28F31E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE18EAD-23BD-4B01-BDC8-564D28F31E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE18EAD-23BD-4B01-BDC8-564D28F31E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38268164-AC74-47D6-8DDF-36A6A0FEE824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38268164-AC74-47D6-8DDF-36A6A0FEE824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38268164-AC74-47D6-8DDF-36A6A0FEE824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38268164-AC74-47D6-8DDF-36A6A0FEE824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDC49AA-0C71-4A45-ADAB-1312896292FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDC49AA-0C71-4A45-ADAB-1312896292FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDC49AA-0C71-4A45-ADAB-1312896292FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDC49AA-0C71-4A45-ADAB-1312896292FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72AB66B6-168E-4B42-838D-82B0B38A1102}
+	EndGlobalSection
+EndGlobal

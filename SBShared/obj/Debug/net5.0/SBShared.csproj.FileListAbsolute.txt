@@ -1,0 +1,12 @@
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.deps.json
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.dll
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\bin\Debug\net5.0\ref\SBShared.dll
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\bin\Debug\net5.0\SBShared.pdb
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.csproj.AssemblyReference.cache
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.AssemblyInfoInputs.cache
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.AssemblyInfo.cs
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.dll
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\ref\SBShared.dll
+C:\Projects\learning\service-bus\IntroToServiceBus\ServiceBusDemo\SBShared\obj\Debug\net5.0\SBShared.pdb
